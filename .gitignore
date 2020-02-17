@@ -1,0 +1,12 @@
+# Temp files
+*~
+\#*#
+
+# Ignore IDE
+.idea
+
+# System files
+._*
+.DS_Store
+Desktop.ini
+Thumbs.db
